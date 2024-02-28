@@ -11,3 +11,9 @@
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Media Query */
+
+@media (max-width: 600px){
+    
+}
